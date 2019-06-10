@@ -46,7 +46,7 @@
 #忽略警告
 -ignorewarning
 
--keep class com.youth.banner.** {
+-keep class com.mirkowu.banner.** {
     *;
  }
 -keep public class * implements com.bumptech.glide.module.GlideModule

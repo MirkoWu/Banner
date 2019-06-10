@@ -119,7 +119,7 @@
 Gradle 
 ```groovy
 dependencies{
-    compile 'com.youth.banner:banner:1.4.10'  //最新版本
+    compile 'com.mirkowu:Banner:1.0.1'  //最新版本
 }
 ```
 或者引用本地lib
@@ -262,7 +262,7 @@ protected void onStop() {
   public *;
 }
 # banner 的混淆代码
--keep class com.youth.banner.** {
+-keep class com.mirkowu.banner.** {
     *;
  }
 
@@ -274,11 +274,7 @@ protected void onStop() {
 
 ## 常见问题
 
-* 问：eclipse怎么使用banner？
-
-    * 答：`在历史版本列表中下载你想要版本的aar包提取最新资源/也可以自己把工程转成eclipse的` <br>
-          eclipse的集成demo群文件里有共享！
-
+ 
 * 问：怎么显示的一片空白？
     * 答：<br>
         1、没有添加网络权限<br>

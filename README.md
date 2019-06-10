@@ -19,11 +19,11 @@
 
 |模式|图片
 |---|---|
-|指示器模式|![效果示例](https://github.com/MirkoWu/Banner/pic/pic_indicator.png)|
-|数字模式|![效果示例](https://github.com/MirkoWu/Banner/pic/pic_num.png)|
-|数字加标题模式|![效果示例](https://github.com/MirkoWu/Banner/pic/pic_title_num.png)|
-|指示器加标题模式|![效果示例](https://github.com/MirkoWu/Banner/pic/pic_title_indicator.png)|
-|卡片加指示器模式|![效果示例](https://github.com/MirkoWu/Banner/pic/pic_card.png)|
+|指示器模式|![效果示例](https://github.com/MirkoWu/Banner/blob/master/pic/pic_indicator.png)|
+|数字模式|![效果示例](https://github.com/MirkoWu/Banner/blob/master/pic/pic_num.png)|
+|数字加标题模式|![效果示例](https://github.com/MirkoWu/Banner/blob/master/pic/pic_title_num.png)|
+|指示器加标题模式|![效果示例](https://github.com/MirkoWu/Banner/blob/master/pic/pic_title_indicator.png)|
+|卡片加指示器模式|![效果示例](https://github.com/MirkoWu/Banner/blob/master/pic/pic_card.png)|
 
 ### 联系方式  <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=KBkYGhAfGhEYEB5oWVkGS0dF" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_11.png"/></a>
  ![效果示例](http://oceh51kku.bkt.clouddn.com/Android%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.png)

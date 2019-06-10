@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="url">
+        <item>http:\/\/p18.qhimg.com\/t012c27b1f9818bd2e2.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t01c70a80c4e38b00c0.jpg</item>
+        <item>http:\/\/p16.qhimg.com\/t012a386dd7deff4e0a.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t012165887a60bfb674.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t0189867b31370ba664.jpg</item>
+    </array>
+
+    <array name="url1">
+        <item>http:\/\/p15.qhimg.com\/t0189867b31370ba664.jpg</item>
+
+    </array>
+    <array name="url2">
+        <item>http:\/\/p15.qhimg.com\/t012165887a60bfb674.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t0189867b31370ba664.jpg</item>
+    </array>
+    <array name="url4">
+        <item>http:\/\/p15.qhimg.com\/t01c70a80c4e38b00c0.jpg</item>
+        <item>http:\/\/p16.qhimg.com\/t012a386dd7deff4e0a.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t012165887a60bfb674.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t0189867b31370ba664.jpg</item>
+    </array>
+    <!-- http://588ku.com/image/daitengmandelitizi.html -->
+    <array name="test_num_url">
+        <item>http:\/\/p18.qhimg.com\/t012c27b1f9818bd2e2.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t01c70a80c4e38b00c0.jpg</item>
+        <item>http:\/\/p16.qhimg.com\/t012a386dd7deff4e0a.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t012165887a60bfb674.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t0189867b31370ba664.jpg</item>
+        <item>http:\/\/p18.qhimg.com\/t012c27b1f9818bd2e2.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t01c70a80c4e38b00c0.jpg</item>
+        <item>http:\/\/p16.qhimg.com\/t012a386dd7deff4e0a.jpg</item>
+        <item>http:\/\/p15.qhimg.com\/t012165887a60bfb674.jpg</item>
+    </array>
+    <array name="title">
+        <item>51巅峰钜惠</item>
+        <item>十大星级品牌联盟，全场2折起</item>
+        <item>生命不是要超越别人，而是要超越自己。</item>
+        <item>己所不欲，勿施于人。——孔子</item>
+        <item>嗨购5折不要停</item>
+    </array>
+    <array name="demo_list">
+        <item>banner动画预览</item>
+        <item>banner内置样式预览</item>
+        <item>banner指示器位置设置预览</item>
+        <item>banner一些自定义样式方法预览</item>
+        <item>banner加载本地图片/卡片布局</item>
+        <item>banner自定义布局文件（这里通过修改ViewPager举一反三吧）</item>
+        <item>！！banner更多用法请看文档，这里就不一一列举了！</item>
+    </array>
+    <array name="anim">
+        <item>Default</item>
+        <item>Accordion</item>
+        <item>BackgroundToForeground</item>
+        <item>ForegroundToBackground</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>DepthPage</item>
+        <item>FlipHorizontal</item>
+        <item>FlipVertical</item>
+        <item>RotateDown</item>
+        <item>RotateUp</item>
+        <item>ScaleInOut</item>
+        <item>Stack</item>
+        <item>Tablet</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>ZoomOutSlide</item>
+        <item>Scale</item>
+    </array>
+    <string-array name="style">
+        <item>NOT_INDICATOR</item>
+        <item>CIRCLE_INDICATOR</item>
+        <item>NUM_INDICATOR</item>
+        <item>NUM_INDICATOR_TITLE</item>
+        <item>CIRCLE_INDICATOR_TITLE</item>
+        <item>CIRCLE_INDICATOR_TITLE_INSIDE</item>
+    </string-array>
+    <string-array name="indicator">
+        <item>LEFT</item>
+        <item>CENTER</item>
+        <item>RIGHT</item>
+    </string-array>
+</resources>

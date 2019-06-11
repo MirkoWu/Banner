@@ -109,7 +109,7 @@
 Gradle 
 ```groovy
 dependencies{
-    compile 'com.mirkowu:Banner:1.0.3'  //最新版本
+    compile 'com.mirkowu:Banner:<latest-version>'  //最新版本
 }
 ```
 或者引用本地lib

@@ -22,7 +22,7 @@ publish {
     userOrg = 'mirkowu'
     groupId = 'com.mirkowu'
     artifactId = 'Banner'
-    publishVersion = '1.0.3'
+    publishVersion = '1.0.5'
     desc = 'a library of Banner '
     website = "https://github.com/mirkowu/${rootProject.name}"
 }

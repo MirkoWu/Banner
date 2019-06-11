@@ -1,14 +1,7 @@
 # Android图片轮播控件
 [![Apache 2.0 License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.html)
-
-
-<!--## 新框架发布，欢迎大家Star-->
-
-<!--[XFrame - Android快速开发框架](https://github.com/youth5201314/XFrame)-->
-
-<!--[XFrame详细功能文档预览](https://github.com/youth5201314/XFrame/wiki)-->
-
-
+[![Download](https://api.bintray.com/packages/mirkowu/maven/Banner/images/download.svg) ](https://bintray.com/mirkowu/maven/Banner/)
+ 
 <br>
 
 现在的绝大数app都有banner界面，实现循环播放多个广告图片和手动滑动循环等功能。因为ViewPager并不支持循环翻页，
@@ -72,7 +65,7 @@
 |isLoop(boolean isLoop)| 设置是否循环滚动（默认自动）|无
 |setViewPagerIsScroll(boolean isScroll)| 设置是否允许手动滑动轮播图（默认true）
 |update(List<?> imageUrls,List<String> titles)| 更新图片和标题 | 
-|update(List<?> imageUrls)| 更新图片 |1.4.5开始
+|update(List<?> imageUrls)| 更新图片 
 |startAutoPlay()|开始轮播|此方法只作用于banner加载完毕-->需要在start()后执行
 |stopAutoPlay()|结束轮播|此方法只作用于banner加载完毕-->需要在start()后执行
 |start()|开始进行banner渲染（必须放到最后执行）| 
@@ -116,7 +109,7 @@
 Gradle 
 ```groovy
 dependencies{
-    compile 'com.mirkowu:Banner:1.0.1'  //最新版本
+    compile 'com.mirkowu:Banner:1.0.3'  //最新版本
 }
 ```
 或者引用本地lib

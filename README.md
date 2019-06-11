@@ -1,12 +1,9 @@
 # Android图片轮播控件
 [![Apache 2.0 License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.html)
 [![Download](https://api.bintray.com/packages/mirkowu/maven/Banner/images/download.svg) ](https://bintray.com/mirkowu/maven/Banner/)
- 
+<!-- [![Bintray](https://img.shields.io/bintray/v/mirkowu/maven/Banner.svg)] -->
 <br>
-
-现在的绝大数app都有banner界面，实现循环播放多个广告图片和手动滑动循环等功能。因为ViewPager并不支持循环翻页，
-所以要实现循环还得需要自己去动手，我就把项目中的控件剔了出来，希望大家觉得有用。目前框架可以进行不同样式、不同动画设置，
-以及完善的api方法能满足大部分的需求了。
+ 
 
 ## 效果图
 
@@ -257,10 +254,6 @@ protected void onStop() {
  }
 
 ```
-
-<a href="https://dl.bintray.com/youth5201314/maven/com/youth/banner/banner/" target="_blank"> [历史版本资源地址]
-
-<a href="http://youth5201314.github.io/2016/04/13/Banner%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6-Android%E8%BD%AE%E6%92%AD%E6%8E%A7%E4%BB%B6/" target="_blank"> [1.3.3以前旧版本使用文档地址]
 
 ## 常见问题
 

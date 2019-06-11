@@ -610,27 +610,12 @@ public class Banner extends FrameLayout implements OnPageChangeListener {
             realPosition += count;
         return realPosition;
 
-//        int realPosition = (position - 1) % count;
-//        if (realPosition < 0)
-//            realPosition += count;
-//        return realPosition;
     }
 
     class BannerPagerAdapter extends PagerAdapter {
 
         @Override
         public int getCount() {
-//            int size = imageViews.size();
-//            if (size == 1) {
-//                return size;
-//            } else if (size < 1) {
-//                return 0;
-//            } else {
-//                if (isLoop)
-//                    return size + 2;
-//                else
-//                    return size;
-//            }
             return imageViews.size();
         }
 
@@ -678,7 +663,6 @@ public class Banner extends FrameLayout implements OnPageChangeListener {
             return;
         switch (state) {
             case 0://No operation
-                Log.d(TAG, "onPageScrollStateChanged  No operation");
                 if (currentItem == 0) {
                     viewPager.setCurrentItem(count, false);
                 } else if (currentItem == count + 1) {
@@ -686,8 +670,6 @@ public class Banner extends FrameLayout implements OnPageChangeListener {
                 }
                 break;
             case 1://start Sliding
-                Log.d(TAG, "onPageScrollStateChangedstart Sliding");
-
                 if (currentItem == count + 1) {
                     viewPager.setCurrentItem(1, false);
                 } else if (currentItem == 0) {
